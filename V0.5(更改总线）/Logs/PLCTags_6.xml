@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="PLCTags_6.xml" projectName="G:\Users\Chenyongzhou\Desktop\PLCTags.xlsx" typeText="类型" messageText="消息" timeText="时间">
+  <LogEntry type="Error" dateTime="10:21:24">
+    <Message>装载文件 G:\Users\Chenyongzhou\Desktop\PLCTags.xlsx 时出错，该文件可能正在使用或为只读文件。</Message>
+  </LogEntry>
+</LogFile>
